@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">spacerock</string>
+    <string name="Earth">earth</string>
+    <string name="Sputnik">sputnik</string>
+    <string name="Add">add</string>
 </resources>
